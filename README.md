@@ -11,7 +11,7 @@ Example of a vulnerable SQL query with user input directly inserted without vali
 Steps to exploit the vulnerability using standard SQL injection techniques (e.g., ' OR '1'='1).
 Recommendations for securing the login page against SQL Injection, including prepared statements and parameterized queries.
 
-##⚠️ Disclaimer: This repository is for educational purposes only. It shows how improper handling of SQL queries can lead to vulnerabilities. Do not use this technique on live systems or without permission.
+⚠️ Disclaimer: This repository is for educational purposes only. It shows how improper handling of SQL queries can lead to vulnerabilities. Do not use this technique on live systems or without permission.
 
 
 ![image](https://github.com/user-attachments/assets/8a4236f0-0676-414a-8395-1737fadef5d1)
